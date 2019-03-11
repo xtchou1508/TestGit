@@ -4,7 +4,7 @@ public class EurekaServer7001_App {
 
 	public static void main(String[] args) {
 			
-		System.out.println("Git");
+		System.out.println("TestGit1");
 		
 	}
 }
